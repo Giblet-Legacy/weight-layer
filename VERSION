@@ -1,0 +1,5 @@
+# VERSION — P10 Weight (weight-layer)
+# Function: the current release version of this layer. Advances only on freeze.
+# 1.0.0 — P10 frozen. Tests pass (11/11).
+
+1.0.0
